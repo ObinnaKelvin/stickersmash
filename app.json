@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "v3",
-    "slug": "v3",
+    "name": "stickersmash",
+    "slug": "stickersmash",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "v3",
+    "scheme": "stickersmash",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
